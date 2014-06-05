@@ -1,7 +1,7 @@
 blockavoider
-by Gjon Gojcevic
 ============
 
+Made by Gjon Gojcevic
 Simple game made in Python 2.6 using pygame and livewires.
 
 How to Run:
